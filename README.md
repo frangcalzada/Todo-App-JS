@@ -13,7 +13,7 @@ https://main--friendly-tartufo-726f33.netlify.app/
 1. Run ```npm run build```
 2. Take the ```dist``` folder and deploy it
 
-## In this project we see:
+## In this project, I use:
 1. HTML
 2. CSS
 3. Vanilla JS
